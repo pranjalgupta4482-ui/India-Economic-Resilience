@@ -1,0 +1,39 @@
+ India’s Economic Resilience (2015–2024)
+
+📊 Project Overview
+This project analyzes India’s economic resilience using key macroeconomic indicators such as GDP growth, inflation, trade balance, forex reserves, government debt, interest rates, USD/INR exchange rate, and political risk index.
+
+The objective is to assess India's economic performance, external stability, financial sustainability, and long-term risk profile using interactive Tableau dashboards.
+
+Tools Used
+- Excel – Data collection & cleaning  
+- Tableau Public – Data visualization   
+
+ Dashboards
+Tableau Public Link:  
+ https://public.tableau.com/app/profile/pranjal.gupta4377/viz/India_Economic_Resilience/IndiasEconomicResilienceExternalStabilityTrade20152024#2
+
+Dashboard 1 – Executive Overview  
+Provides a high-level view of GDP growth and inflation trends.
+
+Dashboard 2 – External Stability & Trade  
+Analyzes exports, imports, trade balance, and forex reserves.
+
+Dashboard 3 – Financial Sustainability & Risk  
+Evaluates government debt, interest rates, USD/INR, and political risk.
+
+Dashboard 4 – Insights & Strategic Recommendations  
+Summarizes key insights, risks, and strategic implications.
+
+Key Insights
+- India shows strong post-COVID economic recovery.  
+- Forex reserves indicate strong external stability.  
+- Government debt increased after COVID but stabilized.  
+- Currency depreciation and political risk remain long-term challenges.  
+
+ Data Sources
+World Bank, IMF, RBI, FRED
+
+Author
+Pranjal Gupta  
+Aspiring Data Analyst
